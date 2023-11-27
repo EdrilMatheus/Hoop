@@ -41,3 +41,47 @@ D:\VS CODE\Hoop\hoop-2\obj\Debug\net7.0\refint\hoop-2.dll
 D:\VS CODE\Hoop\hoop-2\obj\Debug\net7.0\hoop-2.pdb
 D:\VS CODE\Hoop\hoop-2\obj\Debug\net7.0\hoop-2.genruntimeconfig.cache
 D:\VS CODE\Hoop\hoop-2\obj\Debug\net7.0\ref\hoop-2.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\appsettings.json
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\hoop-2.exe
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\hoop-2.deps.json
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\hoop-2.runtimeconfig.json
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\hoop-2.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\hoop-2.pdb
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Humanizer.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Npgsql.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\20191034010037\Hoop\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.csproj.AssemblyReference.cache
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.AssemblyInfoInputs.cache
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.AssemblyInfo.cs
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.csproj.CoreCompileInputs.cache
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.sourcelink.json
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\staticwebassets\msbuild.hoop-2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\staticwebassets\msbuild.build.hoop-2.props
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.hoop-2.props
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.hoop-2.props
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\scopedcss\bundle\hoop-2.styles.css
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.csproj.CopyComplete
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.dll
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\refint\hoop-2.dll
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.pdb
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\hoop-2.genruntimeconfig.cache
+C:\Users\20191034010037\Hoop\obj\Debug\net7.0\ref\hoop-2.dll
