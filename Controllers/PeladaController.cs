@@ -40,7 +40,7 @@ namespace hoop.Controllers
         {
             var pelada = _context.Peladas.FirstOrDefault(p => p.ID == id);
             if(pelada is null)
-                return NotFound("Pelada não encontado.");
+                return NotFound("Pelada não encontada.");
 
                 return pelada;
         }
