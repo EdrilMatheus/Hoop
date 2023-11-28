@@ -18,6 +18,8 @@ namespace hoop.Model
 
         public int Duracao { get; set; }
 
+        public int Pontuacao {get; set;}
+
         public Pelada() {
             Times = new List<Time>();
             Jogadores = new List<Jogador>();
