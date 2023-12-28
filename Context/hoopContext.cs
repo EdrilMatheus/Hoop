@@ -4,10 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using hoop.Model;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace hoop.Context
 {
-    public class hoopContext : DbContext
+    public class hoopContext : IdentityDbContext
     {
         public hoopContext(DbContextOptions options) : base(options) { }
 
