@@ -10,7 +10,8 @@ using hoop.Context;
 namespace hoop.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [ApiVersion("1.0")]
+    [Route("api/v{version:apiVersion}/time")]
     public class TimeController : ControllerBase
     {
        

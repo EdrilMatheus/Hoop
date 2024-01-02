@@ -11,7 +11,8 @@ namespace hoop.Controllers
 {
     [ApiController]
     [Authorize(AuthenticationSchemes = "Bearer")]
-    [Route("api/[controller]")]
+    [ApiVersion("1.0")]
+    [Route("api/v{version:apiVersion}/jogador")]
     public class JogadorController : ControllerBase
     {
 

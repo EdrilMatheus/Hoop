@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20191034010037\\Hoop\\hoop-2.csproj": {}
+    "c:\\Users\\20191034010037\\Hoop\\hoop-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20191034010037\\Hoop\\hoop-2.csproj": {
+    "c:\\Users\\20191034010037\\Hoop\\hoop-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
+        "projectUniqueName": "c:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
         "projectName": "hoop-2",
-        "projectPath": "C:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
+        "projectPath": "c:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
         "packagesPath": "C:\\Users\\20191034010037\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20191034010037\\Hoop\\obj\\",
+        "outputPath": "c:\\Users\\20191034010037\\Hoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20191034010037\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,10 @@
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.14, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",

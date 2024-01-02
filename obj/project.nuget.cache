@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "W+uwHWxNqcB9S+Nf6gpPCzKHfF/RQmvQHQ2rxRjDlJ95O0Dk2r5P6ZGPuR8OSQ24g1QBoMA4rKf/Akb47DPHgw==",
+  "dgSpecHash": "h4AG0BVsnC6cGHtCDk2eqNvdloeg15ilCmjTU7a3/OiXhgm66/m78akSb9qe59JrxOvRb2wy4yAagD+zhND8/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
+  "projectFilePath": "c:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\20191034010037\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\20191034010037\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.14\\microsoft.aspnetcore.authentication.jwtbearer.7.0.14.nupkg.sha512",
     "C:\\Users\\20191034010037\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.14\\microsoft.aspnetcore.cryptography.internal.7.0.14.nupkg.sha512",
     "C:\\Users\\20191034010037\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.14\\microsoft.aspnetcore.cryptography.keyderivation.7.0.14.nupkg.sha512",
     "C:\\Users\\20191034010037\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.14\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.14.nupkg.sha512",
+    "C:\\Users\\20191034010037\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
     "C:\\Users\\20191034010037\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
     "C:\\Users\\20191034010037\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\20191034010037\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
