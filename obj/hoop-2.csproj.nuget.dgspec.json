@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\20191034010037\\Hoop\\hoop-2.csproj": {}
+    "C:\\Users\\20191034010037\\Hoop\\hoop-2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\20191034010037\\Hoop\\hoop-2.csproj": {
+    "C:\\Users\\20191034010037\\Hoop\\hoop-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
+        "projectUniqueName": "C:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
         "projectName": "hoop-2",
-        "projectPath": "c:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
+        "projectPath": "C:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
         "packagesPath": "C:\\Users\\20191034010037\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\20191034010037\\Hoop\\obj\\",
+        "outputPath": "C:\\Users\\20191034010037\\Hoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20191034010037\\AppData\\Roaming\\NuGet\\NuGet.Config",

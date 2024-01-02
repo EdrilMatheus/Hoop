@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNRI2JwtI2zJVw4YDioFgo+rrc34mC7cCb84EJ+7bchMRVqbfwRNEduBxO+R+J2Whtj0B0tC92D8Z42M+8G4WQ==",
+  "dgSpecHash": "W+uwHWxNqcB9S+Nf6gpPCzKHfF/RQmvQHQ2rxRjDlJ95O0Dk2r5P6ZGPuR8OSQ24g1QBoMA4rKf/Akb47DPHgw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
+  "projectFilePath": "C:\\Users\\20191034010037\\Hoop\\hoop-2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\20191034010037\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\20191034010037\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.14\\microsoft.aspnetcore.authentication.jwtbearer.7.0.14.nupkg.sha512",
