@@ -10,7 +10,8 @@ namespace hoop.Controllers
 {
     [ApiController]
     [Microsoft.AspNetCore.Authorization.Authorize(AuthenticationSchemes = "Bearer")]
-    [Route("api/[controller]")]
+    [ApiVersion("1.0")]
+    [Route("api/v{version:apiVersion}/pelada")]
     public class PeladaController : ControllerBase
     {
 
