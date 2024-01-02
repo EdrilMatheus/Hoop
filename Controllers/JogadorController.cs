@@ -5,10 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using hoop.Model;
 using hoop.Context;
+using Microsoft.AspNetCore.Authorization;
 
 namespace hoop.Controllers
 {
     [ApiController]
+    [Authorize(AuthenticationSchemes = "Bearer")]
     [Route("api/[controller]")]
     public class JogadorController : ControllerBase
     {

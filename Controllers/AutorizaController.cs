@@ -14,6 +14,7 @@ using System.IdentityModel.Tokens.Jwt;
 namespace hoop_2.Controllers
 {
     [ApiController]
+    
     [Route("api/[controller]")]
     public class AutorizaController : ControllerBase
     {

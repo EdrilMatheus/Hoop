@@ -9,6 +9,7 @@ using hoop.Context;
 namespace hoop.Controllers
 {
     [ApiController]
+    [Microsoft.AspNetCore.Authorization.Authorize(AuthenticationSchemes = "Bearer")]
     [Route("api/[controller]")]
     public class PeladaController : ControllerBase
     {
